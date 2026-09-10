@@ -8,10 +8,10 @@
   --text-dark: #18181B;
   --text-light: #FFFFFF;
   --accent: #34D399;
-  --font-display: 'Montserrat', sans-serif;
-  --font-body: 'Open Sans', sans-serif;
-  --border-radius: 1px;
-  --box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1);
+  --font-display: 'Bebas Neue', sans-serif;
+  --font-body: 'Source Sans Pro', sans-serif;
+  --border-radius: 15px;
+  --box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
   --transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
 }
 
