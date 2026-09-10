@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://19-drivingschool-apexstride.netlify.app/sitemap.xml
